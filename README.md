@@ -3,7 +3,7 @@
  DCU Student - CASE
 
 ### Projects
-I work on various projects in my spare tim, mostly relating to Red-DiscordBot and my public bot [Pikachu](https://www.pikabot.xyz/ "Pikachu's Site"). My main projects are listed as so:
+I work on various projects in my spare time. These projects are mostly relating to Red-DiscordBot and my public bot [Pikachu](https://www.pikabot.xyz/ "Pikachu's Site"). My main projects are listed as so:
 
 - flare-cogs - Various cogs for Red-DiscordBot
 - pokecord-red - Pokecord rewrite for Red-DiscordBot
