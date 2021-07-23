@@ -13,6 +13,6 @@ I work on various projects in my spare time. These projects are mostly relating 
 - Discord: flare#0001
 - Email: flare@flaree.xyz
 
-# Metrics:
+### Metrics:
 
 ![flare's GitHub metrics](./github-metrics.svg)
