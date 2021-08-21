@@ -11,7 +11,7 @@ I work on various projects in my spare time. These projects are mostly relating 
 
 #### Contact Me
 - Discord: flare#0001
-- Email: flare@flaree.xyz
+- Email: jamie@jamiemcg.ie / flare@flaree.xyz
 
 ### Metrics:
 
