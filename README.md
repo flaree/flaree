@@ -17,7 +17,7 @@ Some information on my socials/information can be found @ www.jamiemcg.ie
 - Email: jamie@jamiemcg.ie / flare@flaree.xyz
 
 <details>
-  <summary>### Metrics:</summary>
+  <summary>Metrics</summary>
 
 ![flare's GitHub metrics](./github-metrics.svg)
 </details> 
