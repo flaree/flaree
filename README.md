@@ -16,6 +16,8 @@ Some information on my socials/information can be found @ www.jamiemcg.ie
 - Discord: flare#0001
 - Email: jamie@jamiemcg.ie / flare@flaree.xyz
 
-### Metrics:
+<details>
+  <summary>### Metrics:</summary>
 
 ![flare's GitHub metrics](./github-metrics.svg)
+</details> 
