@@ -9,6 +9,7 @@ I work on various projects in my spare time, mainly surrounding Discord and bots
 - pokecord-red - Pokecord rewrite for Red-DiscordBot.
 - r6statsapi - Asynchronous python wrapper for the R6Stats website.
 - lastfm-red - A last-fm cog for Red-DiscordBot.
+- lastfm-charts/lastfm-backend - CHart visualization frontend + backend site for LastFM.
 - dcuical - Generate an ICAL file of DCU course timetables, which can be integrated into applications such as Google Calendar.
 
 ### Information
