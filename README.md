@@ -1,6 +1,6 @@
 # Jamie (flare)
 
-Hi, my name is Jamie, otherwise known as flare. I am currently in my final year of Computer Applications & Software Engineering in Dublin City University. My current interests mainly reside around Discord and integrating other features and automation of actions.
+Hi, my name is Jamie, otherwise known as flare. Computer Applications & Software Engineering graduate from Dublin City University. My current interests mainly reside around Discord and integrating other features and automation of actions.
 
 ### Projects
 I work on various projects in my spare time, mainly surrounding Discord and bots. These projects are mostly relating to [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) and my bot [Pikachu](https://www.pikabot.xyz/ "Pikachu's Site"), which is built from the Red framework. I work on projects on the side, some of which include:
