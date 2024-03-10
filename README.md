@@ -2,7 +2,7 @@
 
 Hi, my name is Jamie, otherwise known as flare. Computer Applications & Software Engineering graduate from Dublin City University. My current interests mainly reside around Discord and integrating other features and automation of actions.
 ### Projects
-I work on various projects in my spare time, mainly surrounding Discord and bots. These projects are mostly relating to [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) and [Ballsdex]([https://github.com/Cog-Creators/Red-DiscordBot](https://github.com/Ballsdex-Team/BallsDex-DiscordBot), a discord bot currently in over 250,000 servers. I work on projects on the side, some of which include:
+I work on various projects in my spare time, mainly surrounding Discord and bots. These projects are mostly relating to [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) and [Ballsdex](https://github.com/Ballsdex-Team/BallsDex-DiscordBot), a discord bot currently in over 250,000 servers. I work on projects on the side, some of which include:
 
 - flare-cogs - Various cogs for Red-DiscordBot.
 - pokecord-red - Pokecord rewrite for Red-DiscordBot.
