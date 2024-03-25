@@ -15,7 +15,7 @@ I work on various projects in my spare time, mainly surrounding Discord and bots
 Some information on my socials can be found @ www.jamiemcg.ie
 
 #### Contact Me
-- Discord: flare#0001
+- Discord: .flare.
 - Email: jamie@jamiemcg.ie / flare@flaree.xyz / flare@ballsdex.com (for ballsdex related matters)
 
 <details>
